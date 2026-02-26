@@ -1,6 +1,6 @@
 # Halal Fresh Chicken Web Application
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]
+[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]
 [![Status](https://img.shields.io/badge/Status-Live-16a34a?style=for-the-badge)]
 
